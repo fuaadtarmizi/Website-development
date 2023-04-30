@@ -1,0 +1,50 @@
+body
+{
+	background-color: black;
+	background-image:url("homepage.png");
+	}
+button1{
+	border: none;
+	position: relative;
+	color: #ffd700;
+	bottom: 85;
+}
+button2{
+	left: 20px;
+	border: none;
+	position: relative;
+	color: #ffd700;
+	bottom: 85;
+}	
+button3{
+	left: 38px;
+	border: none;
+	background-color:transparent;
+	position: relative;
+	color: #ffd700;
+	bottom: 85;
+}
+button4{
+	left: 950px;
+	border: none;
+	background-color:transparent;
+	position: relative;
+	color: #ffd700;
+	bottom: 85;
+}		
+p1{
+	font-style:timesnewroma;
+	font-size:120px;
+	color: #ffd700;
+	position: relative;
+	top: 380;
+	right: 360;	
+}
+p2{
+	font-style: timesnewroma;
+	font-size: 35px;
+	color: #ffd700;
+	position: relative;
+	top: 450;
+	right: 685;	
+}
